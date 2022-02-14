@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Valeria @vkozh
+- 👀 I’m interested in Web-development.
+- 🌱 I’m currently learning React and Angular.
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me: v.a.kozh@ya.ru
