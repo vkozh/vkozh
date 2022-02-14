@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Valeria @vkozh
+- 👋 Hi, I’m Valeria.
 - 👀 I’m interested in Web-development.
 - 🌱 I’m currently learning React and Angular.
 - 💞️ I’m looking to collaborate on creative command.
