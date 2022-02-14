@@ -3,4 +3,4 @@
 - 🌱 I’m currently learning React and Angular.
 - 💻 Study at the Yandex.Practicum in the 39 stream.
 - 💞️ I’m looking to collaborate on creative command.
-- 📫 How to reach me: v.a.kozh@ya.ru
+- 📫 My e-mail: v.a.kozh@ya.ru
