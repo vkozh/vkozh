@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Valeria.
+- 📍  Work as web-developer at DLNP JINR, Dubna.
 - 👀 I’m interested in Web-development.
 - 🌱 I’m currently learning React and Angular.
 - 💻 Study at the Yandex.Practicum in the 39 stream.
