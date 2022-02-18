@@ -6,4 +6,4 @@
 - 💞️ I’m looking to collaborate on creative command.
 - 📫 My e-mail: v.a.kozh@ya.ru
 
-[![Valeriya's GitHub stats](https://github-readme-stats.vercel.app/api?username=vkozh)](https://github.com/vkozh/github-readme-stats)
+[![Valeriya's GitHub stats](https://github-readme-stats.vercel.app/api?username=vkozh)](https://github.com/vkozh/github-readme-stats&theme=swift)
