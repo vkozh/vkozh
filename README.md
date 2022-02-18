@@ -1,11 +1,19 @@
-- 👋 Hi, I’m Valeria.
-- :triangular_flag_on_post: Work as web-developer at DLNP JINR, Dubna.
-- :fire: Latest project: [Charming Science](https://github.com/vkozh/scigirls.github.io)
-- 👀 I’m interested in Web-development.
-- 🌱 I’m currently learning React and Angular.
-- 💻 Study at the Yandex.Practicum in the 39 stream.
-- 💞️ I’m looking to collaborate on creative command.
-- 📫 My e-mail: v.a.kozh@ya.ru
+ 👋 Hi, I’m Valeria.
+ 
+ :triangular_flag_on_post: Work as web-developer at DLNP JINR, Dubna.
+ 
+ :fire: Latest project: [Charming Science](https://github.com/vkozh/scigirls.github.io)
+ 
+ 👀 I’m interested in Web-development.
+ 
+ 🌱 I’m currently learning React and Angular.
+ 
+ 💻 Study at the Yandex.Practicum in the 39 stream.
+ 
+ 💞️ I’m looking to collaborate on creative command.
+ 
+ 📫 My e-mail: v.a.kozh@ya.ru
+
 
 #
 
