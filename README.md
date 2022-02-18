@@ -1,7 +1,5 @@
  👋 Hi, I’m Valeria.
-  
- :fire: Latest project: [Charming Science](https://github.com/vkozh/scigirls.github.io)
- 
+   
  👀 I’m interested in Web-development.
  
  🌱 I’m currently learning React and Angular.
@@ -10,7 +8,8 @@
  
  💞️ I’m looking to collaborate on creative command.
  
-
+ :fire: Latest project: [Charming Science](https://github.com/vkozh/scigirls.github.io)
+ 
 
 #
 
