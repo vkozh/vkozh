@@ -1,7 +1,5 @@
  👋 Hi, I’m Valeria.
- 
- :triangular_flag_on_post: Work as web-developer at DLNP JINR, Dubna.
- 
+  
  :fire: Latest project: [Charming Science](https://github.com/vkozh/scigirls.github.io)
  
  👀 I’m interested in Web-development.
