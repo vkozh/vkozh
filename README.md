@@ -12,7 +12,6 @@
  
  💞️ I’m looking to collaborate on creative command.
  
- 📫 My e-mail: v.a.kozh@ya.ru
 
 
 #
