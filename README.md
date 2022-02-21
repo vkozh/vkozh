@@ -26,6 +26,8 @@
 
 **Stats**
 
+<img src="https://www.codewars.com/users/vkozh/badges/large" />
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" height="130" src="https://github-readme-stats.vercel.app/api?username=vkozh&show_icons=true&theme=swift&hide=contribs" />
 </a>
