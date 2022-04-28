@@ -8,7 +8,7 @@
  
  💞️ I’m looking to collaborate on creative command.
  
- :fire: Latest project: [Charming Science](https://github.com/vkozh/sciencegirls){:target="\_blank"}
+ :fire: Latest project: [Charming Science](https://github.com/vkozh/sciencegirls{:target="\_blank"})
  
 
 #
