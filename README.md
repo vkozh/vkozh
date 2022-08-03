@@ -30,6 +30,10 @@
 
 <img src="https://www.codewars.com/users/vkozh/badges/small" />
 
+<a href="https://github.com/KnlnKS/leetcode-stats">
+  <img alt="LeetCode Stat Card" src="https://apu5rh8gxk.execute-api.us-east-1.amazonaws.com/default/leetcode-stats?username=lekozhe" width="400"/>
+</a>
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" height="130" src="https://github-readme-stats.vercel.app/api?username=vkozh&show_icons=true&theme=swift&hide=contribs" />
 </a>
