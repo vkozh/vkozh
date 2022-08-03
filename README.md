@@ -31,7 +31,7 @@
 <img src="https://www.codewars.com/users/vkozh/badges/small" />
 
 <a href="https://github.com/KnlnKS/leetcode-stats">
-  <img alt="LeetCode Stat Card" src="https://apu5rh8gxk.execute-api.us-east-1.amazonaws.com/default/leetcode-stats?username=Lekozhe" width="400"/>
+  <img alt="LeetCode Stat Card" src="https://apu5rh8gxk.execute-api.us-east-1.amazonaws.com/default/leetcode-stats?username=Lekozhe" align="left" width="400"/>
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
