@@ -30,11 +30,12 @@
 
 <img src="https://www.codewars.com/users/vkozh/badges/small" />
 
-*Leetcode:*
+Leetcode:
 
 <a href="https://leetcode.com/Lekozhe/">
   <img alt="LeetCode Stat Card" src="https://apu5rh8gxk.execute-api.us-east-1.amazonaws.com/default/leetcode-stats?username=Lekozhe" height="130"/>
 </a>
+
 
 <div>
 <a href="https://github.com/anuraghazra/github-readme-stats">
