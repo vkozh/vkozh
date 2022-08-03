@@ -15,7 +15,7 @@
 
 #
 
-**Languages and Tools**
+## Languages and Tools
 
 <img height="20" align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/>
 <img height="20" align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"/>
@@ -26,17 +26,21 @@
 <img height="30" align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"/>
 <img height="20" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg"/>
 
-**Stats**
+## Stats
 
 <img src="https://www.codewars.com/users/vkozh/badges/small" />
 
+*Leetcode:*
+
 <a href="https://github.com/KnlnKS/leetcode-stats">
-  <img align="left" alt="LeetCode Stat Card" src="https://apu5rh8gxk.execute-api.us-east-1.amazonaws.com/default/leetcode-stats?username=Lekozhe" height="130"/>
+  <img alt="LeetCode Stat Card" src="https://apu5rh8gxk.execute-api.us-east-1.amazonaws.com/default/leetcode-stats?username=Lekozhe" height="130"/>
 </a>
 
+<div>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" height="130" src="https://github-readme-stats.vercel.app/api?username=vkozh&show_icons=true&theme=swift&hide=contribs" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="left" height="130" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vkozh&layout=compact&theme=swift" />
 </a>
+</div>
