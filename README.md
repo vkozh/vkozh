@@ -32,7 +32,7 @@
 
 Leetcode:
 
-![](https://leetcard.jacoblin.cool/lekozhe?animation=false)
+![](https://leetcard.jacoblin.cool/lekozhe?width=380&height=130)
 
 
 <div>
