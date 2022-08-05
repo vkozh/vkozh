@@ -32,9 +32,7 @@
 
 Leetcode:
 
-<a href="https://leetcode.com/Lekozhe/">
-  <img alt="LeetCode Stat Card" src="https://apu5rh8gxk.execute-api.us-east-1.amazonaws.com/default/leetcode-stats?username=Lekozhe" height="130"/>
-</a>
+![](https://leetcard.jacoblin.cool/lekozhe?animation=false)
 
 
 <div>
