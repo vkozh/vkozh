@@ -30,9 +30,9 @@
 
 <img src="https://www.codewars.com/users/vkozh/badges/small" />
 
-Leetcode:
-
-![](https://leetcard.jacoblin.cool/lekozhe?width=380&height=130)
+<a href="https://leetcode.com/Lekozhe/">
+  <img width="380" src="https://leetcard.jacoblin.cool/lekozhe" />
+</a>
 
 
 <div>
