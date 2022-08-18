@@ -2,9 +2,9 @@
    
  👀 I’m interested in Web-development.
  
- 🌱 I’m currently learning React and Angular.
+ 🌱 I’m currently learning React.
  
- 💻 Study at the Yandex.Practicum in the 39 stream.
+ 💻 I'm study at the Yandex.Practicum in the 39 stream.
  
  💞️ I’m looking to collaborate on creative command.
  
