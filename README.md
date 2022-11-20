@@ -1,12 +1,7 @@
- 👋 Hi, I’m Valeria.
-   
- 👀 I’m interested in Web-development.
+ 👋 Hi, I’m Valeria, web-developer.
  
- 🌱 I’m currently learning React.
+ 💻 I graduted from the Yandex.Practicum in the 39 stream.
  
- 💻 I'm study at the Yandex.Practicum in the 39 stream.
- 
- 💞️ I’m looking to collaborate on creative command.
  
  :fire: Latest project: [Charming Science](https://github.com/vkozh/sciencegirls)
  
